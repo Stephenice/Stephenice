@@ -1,8 +1,6 @@
 <h3>About Me</h3>
 <p width="40" height="40">I'm an energetic developer who enjoys creating awesome user-friendly web applications and even user experiences.</p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Stephenice&layout=compact)](https://github.com/Stephenice/github-readme-stats)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
