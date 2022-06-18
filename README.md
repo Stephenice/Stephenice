@@ -1,5 +1,4 @@
 <h3>About Me</h3>
-<h3>A passionate frontend developer</h3>
 <p>I'm an energetic developer who enjoys creating awesome user-friendly web applications and even user experiences.</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=john&label=Profile%20views&color=0e75b6&style=flat" alt="john" /> </p>
