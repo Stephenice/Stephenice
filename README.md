@@ -1,4 +1,4 @@
-<h1>About Me</h1>
+<h3>About Me</h3>
 <h3>A passionate frontend developer</h3>
 <p>I'm an energetic developer who enjoys creating awesome user-friendly web applications and even user experiences.</p>
 
