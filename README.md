@@ -1,5 +1,5 @@
 <h2>About Me</h2>
-<p width="40" height="40">I'm an energetic developer who enjoys creating awesome user-friendly web applications and even user experiences.  I am a quick thinker and creative problem solver who has not only the knowledge but also the enthusiasm to go the extra mile.</p>
+<p>I'm an energetic developer who enjoys creating awesome user-friendly web applications and even user experiences.  I am a quick thinker and creative problem solver who has not only the knowledge but also the enthusiasm to go the extra mile.</p>
 
 <h3 align="left">Connect with me:</h3>
 
@@ -13,7 +13,5 @@
 <a href="#" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
 <a href="#" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a>
 <a href="#" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
-<a href="#" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a>
-<a href="#" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 <a href="#" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
 </p>
