@@ -1,7 +1,5 @@
-<h2>About Me</h2>
+<h3>About Me</h3>
 <p>I'm an energetic developer who enjoys creating awesome user-friendly web applications and even user experiences.  I am a quick thinker and creative problem solver who has not only the knowledge but also the enthusiasm to go the extra mile.</p>
-
-<h3 align="left">Connect with me:</h3>
 
 <h3 align="left">Languages and Tools:</h3>
 
