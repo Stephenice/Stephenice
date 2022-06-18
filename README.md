@@ -1,7 +1,5 @@
 <h3>About Me</h3>
-<p>I'm an energetic developer who enjoys creating awesome user-friendly web applications and even user experiences.</p>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=john&label=Profile%20views&color=0e75b6&style=flat" alt="john" /> </p>
+<p width="40" height="40">I'm an energetic developer who enjoys creating awesome user-friendly web applications and even user experiences.</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
