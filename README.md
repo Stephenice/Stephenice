@@ -1,6 +1,5 @@
-```bash
-###Hello, World!_</h3>
-```
+#Hello, World!_
+
 <p>I'm Stephen, an energetic developer who enjoys creating awesome user-friendly web applications and even user experiences.  I am a quick thinker and creative problem solver who has not only the knowledge but also the enthusiasm to go the extra mile.</p>
 
 <img align="right" alt="GIF" src="./6.gif" width="400" height="400" />
