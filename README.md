@@ -9,7 +9,7 @@
 
 - 💬 Ask me about anything **I'm happy to help**
 
-- 📫 How to reach me **stephencode@hotmail.com**
+- 📫 How to reach me **stephenable@hotmail.com**
 
 - ⚡ Fun fact **Traveling, hiking and coding**
 
