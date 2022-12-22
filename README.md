@@ -23,4 +23,5 @@
 <a href="#" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a>
 <a href="#" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
 <a href="#" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
+<a href="#" target="_blank" rel="noreferrer"> <img src="https://assets.toptal.io/images?url=https://bs-uploads.toptal.io/blackfish-uploads/components/skill_page/content/logo_file/logo/195519/regular_82x82_Lightning-52aced50860464855987c3a9a32f497f.png" alt="mysql" width="40" height="40"/> </a>
 </p>
