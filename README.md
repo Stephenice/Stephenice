@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **stephenable@hotmail.com**
 
-- ⚡ Fun fact **Traveling, hiking and coding**
+- ⚡ Fun fact **Paintball, Traveling, hiking and coding**
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
