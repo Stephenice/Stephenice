@@ -6,22 +6,19 @@
   <p>In my current role, I lead the development of our eCommerce platform, handling everything from API integrations, feature development, performance optimizations, architecture, and system design. </p>
 
  <p><strong>💻 Programming Languages:</strong> JavaScript, TypeScript, PHP</p>
-            <p><strong>🔧 Technologies & Tools:</strong> React, Angular, Zustand, Redux, GraphQL, RESTful APIs, Node.js, Express.js, 
-                Testing (Jest), Git, GitHub, SQL (PostgreSQL), 
-                Webpack, OpenAPI, AWS, Docker, Lightning Web Components (LWC), Tailwind CSS, Material UI, WebDriverIO, SASS/LESS, 
+  
+  <p><strong>🔧 Technologies & Tools:</strong> React, Angular, Zustand, Redux, GraphQL, RESTful APIs, Node.js, Express.js, 
+                Testing (Jest), Git, GitHub, SQL (PostgreSQL), Webpack, OpenAPI, AWS, Docker, Lightning Web Components (LWC), Tailwind CSS, Material UI, WebDriverIO, SASS/LESS, 
                 Bootstrap, Babel, Cypress, GraphQL, React Testing Library, OAuth2, JWT, HTML, CSS, Styled Components, Bootstrap, MongoDB
-            </p>
-            <p><strong>☁️ Cloud:</strong> CI/CD, Git (Github, Bitbucket, GitLab), AWS Lambda, AWS S3, AWS DynamoDB, Salesforce CRM, 
-                Salesforce Experience Cloud, Docker, Adobe Commence cloud, CDNs
-            </p>
-            <p><strong>📊 Methodologies:</strong> SCRUM, Agile, TDD, BDD</p>
-            <p><strong>🤔 Interests</strong>  Software Architecture, System Design, DevOps, CI/CD, Microservices architecture</p>
-            <a href="https://www.linkedin.com/in/stephen-ijeh/" class="link" target="_blank">Let’s connect!</a>
+ </p>
+ 
+<p><strong>☁️ Cloud:</strong> CI/CD, Git (Github, Bitbucket, GitLab), AWS Lambda, AWS S3, AWS DynamoDB, Salesforce CRM, 
+                Salesforce Experience Cloud, Docker, Adobe Commence cloud, CDNs </p>
 
-- 👨‍💻 See my portfolio at [https://stephenice.com/](https://stephenice.com/)
+<p><strong>📊 Methodologies:</strong> SCRUM, Agile, TDD, BDD</p>
 
-- 💬 Ask me about anything **I'm happy to help**
+<p><strong>🤔 Interests</strong>  Software Architecture, System Design, DevOps, CI/CD, Microservices architecture</p>
 
-- 📫 How to reach me **stephendev44@gmail.com**
-
-- ⚡ Fun fact **Paintball, Checker, Traveling, hiking, reading about new technologies, and jogging around the city**
+<p><strong>⚡ For Fun </strong> I love a Paintball match, Checker if it is rainy outside or and jogging around the city
+            
+<a href="https://www.linkedin.com/in/stephen-ijeh/" target="_blank">Let’s connect!</a>
